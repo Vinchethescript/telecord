@@ -1,8 +1,6 @@
 from setuptools import setup
 
-requirements = [
-    "aiogram", "discord.py"
-]
+requirements = ["aiogram", "discord.py"]
 
 kwargs = {
     "python_requires": ">=3.5",
